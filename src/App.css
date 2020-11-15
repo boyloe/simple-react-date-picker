@@ -1,5 +1,17 @@
-.birthdate-input {
+.birthdate-input-container {
   display: flex;
   justify-content: center;
-  align-items: center;
+  
+
+}
+
+.birthdate-input {
+  align-self: center;
+  border-color: black;
+  border-width: 1em;
+
+}
+
+.age-display {
+  display: block
 }
