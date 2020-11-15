@@ -35,7 +35,7 @@ function App() {
             />  
         </MuiPickersUtilsProvider>
       </div>
-      <div>
+      <div className="age-container">
         <p className="age-display">
           {`Age: ${calculateAge(selectedDate)}`}
         </p>

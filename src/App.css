@@ -7,11 +7,10 @@
 
 .birthdate-input {
   align-self: center;
-  border-color: black;
-  border-width: 1em;
 
 }
 
-.age-display {
-  display: block
+.age-container {
+  display: flex;
+  justify-content: center;
 }
